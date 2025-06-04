@@ -1,0 +1,21 @@
+# Java class files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+.idea/workspace.xml
+shelf/
+
+# Build output
+/out/
+/bin/
+/target/
+
+# Logs
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
